@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Mario Vargas CI/CD!!!
+        Developer Name... Ha ha ha.
       </div>
       <div class="col-lg-6">
       </div>
