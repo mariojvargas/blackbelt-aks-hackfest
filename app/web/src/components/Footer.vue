@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Developer Name... Ha ha ha.
+        Mario Vargas @ Cardinal Solutions
       </div>
       <div class="col-lg-6">
       </div>
